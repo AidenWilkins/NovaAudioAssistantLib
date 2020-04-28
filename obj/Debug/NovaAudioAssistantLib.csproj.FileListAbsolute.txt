@@ -1,0 +1,6 @@
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\bin\Debug\NovaAudioAssistantLib.dll
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\bin\Debug\NovaAudioAssistantLib.pdb
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\obj\Debug\NovaAudioAssistantLib.csproj.CoreCompileInputs.cache
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\obj\Debug\NovaAudioAssistantLib.dll
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\obj\Debug\NovaAudioAssistantLib.pdb
+C:\Users\aiden\source\repos\Nova jar Runner\NovaAudioAssistantLib\obj\Debug\NovaAudioAssistantLib.csprojAssemblyReference.cache
