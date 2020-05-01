@@ -14,11 +14,11 @@ namespace NovaAudioAssistantLib.Settings
         public SettingsHandler(string file)
         {
             this.file = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), file);
-            if (!File.Exists(file))
+            if (!File.Exists(this.file))
             {
                 SaveSettings();
             }
-            doc.Load(file);
+            doc.Load(this.file);
 
             XmlNodeList nodes = doc.SelectNodes("Settings/Setting");
             foreach (XmlNode node in nodes)
